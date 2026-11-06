@@ -25,4 +25,4 @@ Example output:
 			dev.emi.bunchotrinkets.mixin.MinecraftClientMixin (bunchotrinkets.mixins.json)
 ```
 
-Tested on Minecraft 1.16.2 and 1.16.1, but is likely to work on many different versions.
+Requires Minecraft 26.3 and Java 25.
